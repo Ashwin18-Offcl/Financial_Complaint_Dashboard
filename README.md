@@ -1,20 +1,20 @@
-# Financial Consumer Complaints – Power BI Dashboard  
+# 📊 Financial Consumer Complaints – Power BI Dashboard  
 _A complete end-to-end data analytics project using Power BI, showcasing KPIs, trends, complaint insights, and a professional dashboard interface._
 
 ---
 
 ## 🗂️ Project Repository Structure
 
-📌 **Power BI Dashboard (PDF Image)**  
-➡️ [Financial Complaints Dashboard](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Dashboard%20Image.png)
+📌 **Power BI Dashboard (Image Preview)**  
+➡️ [Dashboard Image](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Dashboard%20Image.png)
 
-📌 **Youtube Guidance**  
-➡️ [Financial Consumer Complaints Dataset](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/YouTube%20Vid.png)
+📌 **YouTube Guidance Thumbnail**  
+➡️ [YouTube Guide Image](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/YouTube%20Vid.png)
 
 📌 **Dataset Screenshot (.png)**  
 ➡️ [Dataset Preview](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/DataSet.png)
 
-📌 **Problem Statement (.docx)**  
+📌 **Problem Statement (Image)**  
 ➡️ [Problem Statement](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/ProblemStatement%20Image.png)
 
 ---
@@ -23,11 +23,11 @@ _A complete end-to-end data analytics project using Power BI, showcasing KPIs, t
 
 | **1️⃣ Power BI Dashboard Preview** | **2️⃣ Dataset Screenshot** |
 |----------------------------------|----------------------------|
-| <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/PDF%20Power%20BI%20Image.pdf" width="450"> | <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/DataSet.png" width="450"> |
+| <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Dashboard%20Image.png" width="440"> | <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/DataSet.png" width="440"> |
 
-| **3️⃣ Final Dashboard View** | **4️⃣ Problem Statement** |
-|-----------------------------|---------------------------|
-| <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/PDF%20Power%20BI%20Image.pdf" width="450"> | 📄 [Open Problem Statement](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Problem%20Statement.docx) |
+| **3️⃣ YouTube Guidance Image** | **4️⃣ Problem Statement** |
+|------------------------------|---------------------------|
+| <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/YouTube%20Vid.png" width="440"> | <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/ProblemStatement%20Image.png" width="440"> |
 
 ---
 
@@ -163,8 +163,8 @@ This project presents a **Financial Consumer Complaints Dashboard built in Power
 
 ## 🖼️ Dashboard Preview
 
-➡️ **Full Dashboard PDF:**  
-https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/PDF%20Power%20BI%20Image.pdf  
+➡️ **Full Dashboard PNG:**  
+https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Dashboard%20Image.png  
 
 ---
 
@@ -183,13 +183,14 @@ It demonstrates strong skills in Power BI, DAX, modeling, and storytelling with 
 
 ## 🔖 Tags & Keywords
 
-`#PowerBI` `#Dashboard`  `#DataAnalytics`  `#BusinessIntelligence`  `#ConsumerComplaints`  `#FinancialAnalytics`  `#DataVisualization`  `#AnalyticsPortfolio`  `#AshwinPanbude`
+`#PowerBI` `#Dashboard` `#DataAnalytics` `#BusinessIntelligence`  
+`#ConsumerComplaints` `#FinancialAnalytics` `#DataVisualization`  
+`#AnalyticsPortfolio` `#AshwinPanbude`
 
 ---
 
 ## 📬 Contact Me
 
 📧 **Email:** *ashwinpanbude1220@gmail.com*  
-🔗 **LinkedIn:** *https://bit.ly/49pSuZJ*  
+🔗 **LinkedIn:** https://bit.ly/49pSuZJ  
 🐙 **GitHub:** Ashwin18-Offcl  
-
