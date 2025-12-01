@@ -1,4 +1,4 @@
-# 📊 Financial Consumer Complaints – Power BI Dashboard  
+# Financial Consumer Complaints – Power BI Dashboard  
 _A complete end-to-end data analytics project using Power BI, showcasing KPIs, trends, complaint insights, and a professional dashboard interface._
 
 ---
@@ -6,16 +6,16 @@ _A complete end-to-end data analytics project using Power BI, showcasing KPIs, t
 ## 🗂️ Project Repository Structure
 
 📌 **Power BI Dashboard (PDF Image)**  
-➡️ [Financial Complaints Dashboard](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/PDF%20Power%20BI%20Image.pdf)
+➡️ [Financial Complaints Dashboard](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Dashboard%20Image.png)
 
-📌 **Dataset File (.csv)**  
-➡️ [Financial Consumer Complaints Dataset](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Financial%20Consumer%20Complaints%20new%20Excel%20File.csv)
+📌 **Youtube Guidance**  
+➡️ [Financial Consumer Complaints Dataset](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/YouTube%20Vid.png)
 
 📌 **Dataset Screenshot (.png)**  
 ➡️ [Dataset Preview](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/DataSet.png)
 
 📌 **Problem Statement (.docx)**  
-➡️ [Problem Statement](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Problem%20Statement.docx)
+➡️ [Problem Statement](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/ProblemStatement%20Image.png)
 
 ---
 
